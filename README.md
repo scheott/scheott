@@ -1,16 +1,13 @@
-### Hi there 👋
+# Otto Schenk
 
-<!--
-**scheott/scheott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Looking to Learn Every Day'**
 
-Here are some ideas to get you started:
+I'm a Data Science Student at the University of Minnesota Twin Cities. The projects I put on this profile were made with the intent to learn more about software development and Data Science. I have a huge interest in machine learning and with what I learn from these projects to get a job in the sector. Thanks for looking!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Tools
+
+<img align="left" alt="Java" width="30px" style = "padding-righht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style = "padding-righht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style = "padding-righht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
