@@ -1,6 +1,6 @@
 # Otto Schenk
 
-I'm a Data Science Student at the University of Minnesota Twin Cities. The projects I put on this profile were made with the intent to learn more about software development and Data Science. I have a huge interest in each of the projects I make, I appreciate you for taking a look!
+I'm a Data Science Student at the University of Minnesota Twin Cities. The projects I put on this profile were made with the intent to learn more about software development and Data Science. I have a huge interest in each of the projects I make, thank you for taking a look!
 
 ---
 
