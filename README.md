@@ -1,6 +1,6 @@
 # Otto Schenk
 
-I'm a Data Science Student at the University of Minnesota Twin Cities. The projects I put on this profile were made with the intent to learn more about software development and Data Science. I have a huge interest in each of the projects I make, thank you for taking a look!
+Hi there! I'm Otto, a passionate Data Science student at the University of Minnesota. Dive into my repositories to see how I harness the power of data, or reach out to collaborate on innovative projects!
 
 ---
 
