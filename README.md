@@ -1,6 +1,6 @@
 # Otto Schenk
 
-Hi there! I'm Otto, a passionate Data Science student at the University of Minnesota. Excited to show how I use data and showcase my projects, or reach out to collaborate on innovative projects!
+Hi there! I'm Otto, a passionate Data Scientist currently working at WElls Fargo. Excited to show how I use data and showcase my projects, or reach out to collaborate on innovative projects!
 
 ---
 
